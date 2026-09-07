@@ -8,6 +8,7 @@
   <!-- INTRO TEXT -->
   <h3><b>The best repo with leaked, deobfuscated, and cracked scripts.</b></h3>
   <p><i>Because no one wants to pay the greedy deobfuscators.<br>So you can run it yourself 😎</i></p>
+  <h3><b>https://discord.com/invite/luadeobfuscation</b></h3>
 
   <br>
 
